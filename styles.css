@@ -1,0 +1,20 @@
+h1{
+    text-align:center;
+    color:red;
+}
+div{
+    text-align:center;
+    padding:10px;
+    background-color:lightblue;
+    padding:104px;
+}
+input {
+    text-align:center;
+    width:300px;
+}
+body{
+    background-color:pink;
+}
+p{
+    color:purple;
+}
